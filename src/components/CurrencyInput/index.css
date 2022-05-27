@@ -1,0 +1,9 @@
+.currency-block input {
+    font-weight: bold;
+
+    max-width: 40%;
+}
+
+.currency-block input:focus {
+    border-color: green;
+}

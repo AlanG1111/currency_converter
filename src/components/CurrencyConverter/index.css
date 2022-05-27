@@ -1,0 +1,11 @@
+.converter span {
+    font-size: 12px;
+    font-weight: bold;
+
+    color: #a0a0a0;
+}
+
+.currency-block {
+    display: flex;
+    justify-content: space-around;
+}

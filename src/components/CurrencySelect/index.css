@@ -1,0 +1,11 @@
+.currency-block select {
+    width: 80px;
+}
+
+.curr-el {
+    font-size: 18px;
+
+    padding: 5px 10px;
+
+    border-radius: 12px;
+}
